@@ -1,21 +1,17 @@
-# Hi there, I'm Masrkai! 👋
-
+## 📈 GitHub Stats
 ![Visitor Count](https://komarev.com/ghpvc/?username=Masrkai&color=blueviolet&style=flat-square)
+
+![Masrkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masrkai&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masrkai&layout=compact&theme=dark)
 
 
 ## 🛠️ Languages and Tools
-
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![KDE](https://img.shields.io/badge/-KDE-1D99F3?style=flat-square&logo=kde&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Masrkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masrkai&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masrkai&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahmed-allam-476097315/)

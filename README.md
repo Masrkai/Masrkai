@@ -9,12 +9,11 @@
 
 
 ## 📈 GitHub Stats
-![Visitor Count](https://komarev.com/ghpvc/?username=Masrkai&color=blueviolet&style=flat-square)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Masrkai&color=blueviolet&style=flat)
 ![Masrkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masrkai&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masrkai&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahmed-allam-476097315/)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/A47A47)
-[![Signal](https://img.shields.io/badge/-Signal-3A76F0?style=flat-square&logo=signal&logoColor=white)](https://signal.me/#eu/ZJzAOV39RtIYVVvCYlrXnKDzHHaNsg5CpoUWtDLIz1FbprH2ThBEZYG2Ol6wNU3B)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=black)](https://www.linkedin.com/in/ahmed-allam-476097315/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=black)](https://t.me/A47A47)
+[![Signal](https://img.shields.io/badge/-Signal-3A76F0?style=flat-square&logo=signal&logoColor=black)](https://signal.me/#eu/ZJzAOV39RtIYVVvCYlrXnKDzHHaNsg5CpoUWtDLIz1FbprH2ThBEZYG2Ol6wNU3B)

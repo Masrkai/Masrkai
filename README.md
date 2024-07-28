@@ -1,4 +1,6 @@
-## 🛠️ Languages and Tools
+## 👋🏼 Hi, I am Masrkai nice to meet you
+
+## 🛠️ Languages & Tools
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=black)
 ![Nix](https://img.shields.io/badge/-Nix-7EBAFF?style=flat-square&logo=nixos&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -18,7 +20,7 @@
 ![Masrkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masrkai&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masrkai&layout=compact&theme=dark)
 
-## 📫 Connect with Me
+## 📫 Connect with me through:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=black)](https://www.linkedin.com/in/ahmed-allam-476097315/)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=black)](https://t.me/A47A47)
 [![Signal](https://img.shields.io/badge/-Signal-3A76F0?style=flat-square&logo=signal&logoColor=black)](https://signal.me/#eu/ZJzAOV39RtIYVVvCYlrXnKDzHHaNsg5CpoUWtDLIz1FbprH2ThBEZYG2Ol6wNU3B)

@@ -13,7 +13,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           #plugin_languages_ignored: html, css                           # List of languages to ignore

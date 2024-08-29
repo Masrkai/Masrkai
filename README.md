@@ -20,9 +20,6 @@
 ![Masrkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masrkai&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masrkai&layout=compact&theme=dark)
 
-
-![Metrics](https://github.com/Masrkai/Masrkai/blob/master/github-metrics.svg)
-
 ## 📫 Connect with me through:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=black)](https://www.linkedin.com/in/ahmed-allam-476097315/)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=black)](https://t.me/A47A47)

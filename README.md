@@ -31,6 +31,10 @@ Welcome to my GitHub profile. I'm passionate about coding, learning new technolo
 ## 🔥 My Stats:
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://streak-stats.demolab.com?user=Masrkai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak" />
+</div>
+
+###
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Masrkai&show_icons=true&theme=dark" height="150" width="400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masrkai&layout=compact&theme=dark" height="150" alt="Top Languages" />
 </div>

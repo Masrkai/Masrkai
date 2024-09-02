@@ -45,6 +45,8 @@
   <img src="https://streak-stats.demolab.com?user=Masrkai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+![Masrkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masrkai&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masrkai&layout=compact&theme=dark)
 ###
 
 <img src="https://raw.githubusercontent.com/Masrkai/Masrkai/output/snake.svg" alt="Snake animation" />

@@ -58,7 +58,7 @@
 ---
 
 
-## 🔥 My Stats:
+## My Stats:
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/Masrkai/Github_Stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
@@ -73,12 +73,10 @@
 
 ---
 
-## 📫 Connect with Me:
+## Connect with Me:
 <div align="left">
   <a href="https://www.linkedin.com/in/ahmed-allam-476097315/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=black" height="30" alt="LinkedIn" />
-
   <a href="https://signal.me/#eu/ZJzAOV39RtIYVVvCYlrXnKDzHHaNsg5CpoUWtDLIz1FbprH2ThBEZYG2Ol6wNU3B" target="_blank">
     <img src="https://img.shields.io/badge/-Signal-3A76F0?style=flat-square&logo=signal&logoColor=black" height="30" alt="Signal" />
-
 </div>

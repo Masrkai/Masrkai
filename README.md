@@ -11,14 +11,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="50" alt="NIx" />
   &nbsp;&nbsp;
   <span style="display: inline-flex; align-items: center; height: 50px;">
-    <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="45" alt="C" style="vertical-align: top; margin-top: -8px;" />
+    <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="40" alt="C" style="vertical-align: top; margin-top: -8px;" />
     <span style="font-weight: bold; font-size: 24px; margin: 0 2px; transform: rotate(12deg);">/</span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" style="vertical-align: bottom; margin-top: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" style="vertical-align: bottom; margin-top: 8px;" />
   </span>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" />
+  &nbsp;&nbsp;
+  <span style="display: inline-flex; align-items: center; height: 50px;">
+    <img src="https://octave.org/img/octave-logo.svg" height="40" alt="C" style="vertical-align: top; margin-top: -4px;" />
+    <span style="font-weight: bold; font-size: 24px; margin: 0 2px; transform: rotate(12deg);">/</span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/matlab/matlab-original.svg" height="40" alt="C++" style="vertical-align: bottom; margin-top: 8px;" />
+  </span>
 </p>
 
 </td>
@@ -34,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="50" alt="CMake" />
+  &nbsp;&nbsp;
 </p>
 
 <p align="center">

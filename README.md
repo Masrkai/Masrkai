@@ -1,6 +1,6 @@
 # 👋🏼 Hello there, I'm Masrkai! Nice to meet you.
 
-####  I'm passionate about Programming, Nix/NixOS, learning new technologies, and building innovative projects.
+####  I'm passionate about Programming, Nix/NixOS and learning technologies.
 
 ---
 
@@ -10,9 +10,11 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="50" alt="NIx" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="50" alt="Dart" />
+  <span style="display: inline-flex; align-items: center; height: 50px;">
+    <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="45" alt="C" style="vertical-align: top; margin-top: -8px;" />
+    <span style="font-weight: bold; font-size: 24px; margin: 0 2px; transform: rotate(12deg);">/</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" style="vertical-align: bottom; margin-top: 8px;" />
+  </span>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   &nbsp;&nbsp;

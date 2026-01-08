@@ -10,21 +10,16 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="50" alt="NIx" />
   &nbsp;&nbsp;
-  <span style="display: inline-flex; align-items: center; height: 50px;">
-    <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="40" alt="C" style="vertical-align: top; margin-top: -8px;" />
-    <span style="font-weight: bold; font-size: 24px; margin: 0 2px; transform: rotate(12deg);">/</span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" style="vertical-align: bottom; margin-top: 8px;" />
-  </span>
+  <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="50" alt="C"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" />
   &nbsp;&nbsp;
-  <span style="display: inline-flex; align-items: center; height: 50px;">
-    <img src="https://octave.org/img/octave-logo.svg" height="40" alt="C" style="vertical-align: top; margin-top: -4px;" />
-    <span style="font-weight: bold; font-size: 24px; margin: 0 2px; transform: rotate(12deg);">/</span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/matlab/matlab-original.svg" height="40" alt="C++" style="vertical-align: bottom; margin-top: 8px;" />
-  </span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/matlab/matlab-original.svg" height="50" alt="Matlab" />
+  &nbsp;&nbsp;
 </p>
 
 </td>
@@ -46,7 +41,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/syncthing/syncthing/main/assets/logo-only.svg" height="50" alt="Syncthing" />
   &nbsp;&nbsp;
-  <img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1747744071178" height="50" alt="Ollama" />
+  <img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1747745071178" height="50" alt="Ollama" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite" />
   &nbsp;&nbsp;

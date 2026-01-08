@@ -8,7 +8,7 @@
 
 ### Languages:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="50" alt="NIx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="50" alt="Nix" />
   &nbsp;&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="50" alt="C"/>
   &nbsp;&nbsp;
@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/vscodium/vscodium-original.svg" height="50" alt="VSCodium" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" />
   &nbsp;&nbsp;
@@ -36,6 +36,8 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="50" alt="CMake" />
   &nbsp;&nbsp;
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/selenium/selenium-original.svg" height="50" alt="CMake" />
+  &nbsp;&nbsp; -->
 </p>
 
 <p align="center">

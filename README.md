@@ -1,6 +1,6 @@
-# 👋🏼 Hello there, I'm Masrkai! Nice to meet you
+## Hello there, I'm Masrkai! 👋🏼
 
-#### I'm passionate about Programming, Nix/NixOS and learning technologies
+I'm passionate about Programming, Systems Engineering, Embedded Systems, Nix/NixOS and learning technologies (New and old as long as they make sense to me or a specific use case or purpose)
 
 ---
 
@@ -8,34 +8,33 @@
 
 ### Languages
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="50" alt="Nix" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"  height="50" alt="Rust" />
-  &nbsp;&nbsp;
-  <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="50" alt="C"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"  height="50" alt="Go" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"  height="50" alt="Kotlin" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  height="50" alt="Java" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/matlab/matlab-original.svg" height="50" alt="Matlab" />
-  &nbsp;&nbsp;
-  <img src="https://docs.slint.dev/latest/docs/slint/_astro/slint-logo-small-light.DRFn4pZL.svg" height="50" alt="Matlab" />
-  &nbsp;&nbsp;
-</p>
-
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="50" alt="Nix" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"  height="50" alt="Rust" />
+    &nbsp;&nbsp;
+    <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="50" alt="C"/>
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"  height="50" alt="Go" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"  height="50" alt="Kotlin" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  height="50" alt="Java" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" />
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/matlab/matlab-original.svg" height="50" alt="Matlab" />
+    &nbsp;&nbsp;
+    <img src="https://docs.slint.dev/latest/docs/slint/_astro/slint-logo-small-light.DRFn4pZL.svg" height="50" alt="Matlab" />
+    &nbsp;&nbsp;
+  </p>
 </td>
 
-### 🛠 Tools
+### Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
@@ -44,12 +43,15 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="50" alt="CMake" />
-  &nbsp;&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="50" alt="CMake" />
+  &nbsp;&nbsp; -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" />
+  &nbsp;&nbsp; -->
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/selenium/selenium-original.svg" height="50" alt="CMake" />
   &nbsp;&nbsp; -->
 </p>
+
+### Services
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/syncthing/syncthing/main/assets/logo-only.svg" height="50" alt="Syncthing" />
@@ -60,15 +62,14 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="CMake" />
+  &nbsp;&nbsp;
 </p>
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="50" alt="Cloudflare" /> -->
 
-</td>
-</tr>
-
 ---
 
-## My Stats
+## Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/Masrkai/Github_Stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />

@@ -1,6 +1,6 @@
 ## Hello there, I'm Masrkai! 👋🏼
 
-I'm passionate about Programming, Systems Engineering, Embedded Systems, Nix/NixOS and learning technologies (New and old as long as they make sense to me or a specific use case or purpose)
+I'm passionate about Systems Engineering, Embedded Systems, Programming, Nix/NixOS and learning technologies (New and old as long as they make sense to me or a specific use case or purpose)
 
 ---
 

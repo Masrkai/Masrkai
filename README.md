@@ -13,6 +13,8 @@ I'm passionate about Systems Engineering, Embedded Systems, Programming, Nix/Nix
     &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"  height="50" alt="Rust" />
     &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg"  height="50" alt="Rust" />
+    &nbsp;&nbsp;
     <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="50" alt="C"/>
     &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
@@ -33,6 +35,7 @@ I'm passionate about Systems Engineering, Embedded Systems, Programming, Nix/Nix
     &nbsp;&nbsp;
   </p>
 </td>
+
 
 ### Tools
 
@@ -64,8 +67,9 @@ I'm passionate about Systems Engineering, Embedded Systems, Programming, Nix/Nix
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="CMake" />
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="50" alt="Cloudflare" />
+  &nbsp;&nbsp;
 </p>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="50" alt="Cloudflare" /> -->
 
 ---
 

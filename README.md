@@ -72,8 +72,9 @@ I'm passionate about Systems Engineering, Embedded Systems, Programming, Nix/Nix
 ## Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/Masrkai/Github_Stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
-  <img src=https://raw.githubusercontent.com/Masrkai/Github_Stats/master/generated/languages.svg#gh-dark-mode-only"  alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Masrkai/github-stats/refs/heads/generated/output/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+
+  <img src="https://raw.githubusercontent.com/Masrkai/github-stats/refs/heads/generated/output/languages.svg#gh-dark-mode-only"  alt="Top Languages" />
 </div>
 
 ---
